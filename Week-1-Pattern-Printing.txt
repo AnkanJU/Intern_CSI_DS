@@ -1,0 +1,12 @@
+Week 1 - Pattern Printing
+
+This assignment focuses on basic Python programming and iteration concepts through printing different star (`*`) patterns.
+
+### Tasks
+- Lower triangular pattern  
+- Upper triangular pattern  
+- Pyramid pattern  
+
+### Example Output
+
+#### Lower Triangular
